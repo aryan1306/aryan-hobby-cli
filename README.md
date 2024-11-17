@@ -11,7 +11,7 @@ go install github.com/aryan1306/aryan-hobby-cli@latest
 ```bash
 aryan-hobby-cli
 
-📘 Enter project name: lskf
+📘 Enter project name: new-hobby-project
 
 📋 Select template:
 =======================================
