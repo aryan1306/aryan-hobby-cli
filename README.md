@@ -5,6 +5,8 @@
 ```bash
 go install github.com/aryan1306/aryan-hobby-cli@latest
 ```
+or
+you can install precompiled binaries for your specific OS from the archives.
 
 ## Usage
 
